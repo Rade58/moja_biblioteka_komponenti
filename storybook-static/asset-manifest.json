@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "./main.8bd12c375c8c0ae6e7a4.bundle.js",
+    "main.js.map": "./main.8bd12c375c8c0ae6e7a4.bundle.js.map",
+    "runtime~main.js": "./runtime~main.8bd12c375c8c0ae6e7a4.bundle.js",
+    "runtime~main.js.map": "./runtime~main.8bd12c375c8c0ae6e7a4.bundle.js.map",
+    "vendors~main.js": "./vendors~main.8bd12c375c8c0ae6e7a4.bundle.js",
+    "vendors~main.js.map": "./vendors~main.8bd12c375c8c0ae6e7a4.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.9d0ba922c12197e9bc06458da2cf380f.js": "./precache-manifest.9d0ba922c12197e9bc06458da2cf380f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/OxygenMono-Regular.ttf": "./static/media/OxygenMono-Regular.d7ad9260.ttf",
+    "static/media/login.svg": "./static/media/login.e5653933.svg",
+    "static/media/signup.svg": "./static/media/signup.541ae5f1.svg",
+    "vendors~main.8bd12c375c8c0ae6e7a4.bundle.js.LICENSE.txt": "./vendors~main.8bd12c375c8c0ae6e7a4.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.8bd12c375c8c0ae6e7a4.bundle.js",
+    "vendors~main.8bd12c375c8c0ae6e7a4.bundle.js",
+    "main.8bd12c375c8c0ae6e7a4.bundle.js"
+  ]
+}
