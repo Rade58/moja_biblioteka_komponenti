@@ -1,0 +1,22 @@
+import { Meta, Story, Preview } from "@storybook/addon-docs/blocks";
+import { SignUpModal } from "./Modal";
+import { action } from "@storybook/addon-actions";
+import { boolean } from "@storybook/addon-knobs";
+
+<Meta title="Design System|Modals" component={SignUpModal} />
+
+# Modal
+
+Modal is used for displaying forms.
+
+## Usage
+
+Modal is positioning fixed over your other emlements, and he holds forms or some other interactions.
+
+## My Modal
+
+<Preview withToolbar>
+  <Story name="sign up modal">
+    <SignUpModal modalIsShown={boolean("SignupModal Visibility", true)} />
+  </Story>
+</Preview>
